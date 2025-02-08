@@ -71,7 +71,7 @@ export default function AllProduct() {
   useEffect(() => {
     async function fetchProducts() {
       try {
-        const query = `*[_type == "products"] {
+        const query = `*[_type == "product"] {
           _id,
           title,
           price,
