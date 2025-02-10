@@ -1,0 +1,7 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Severity,Remarks
+TC001,Validate Product Listing Page,Open Products Page Validate Products,Products display successfully,Products display successfully,high,No issues found
+TC002,Test API Error Handling,Disconnect GraphQL Query Refresh Page,Show error message on screen,Show error message on screen,medium,Handle good
+TC003,Check Cart Functionality,Add to Cart  Navigate to Cart,Display products in cart,Displaying products in cart,medium,Successfully
+TC004,Ensure Responsiveness on Mobile,Inspect  Device Toolbar Select Mobile Device,Show content according to the device,Show content according to the device,high,Responsive highly
+TC005,Validate Dynamic Product Details,Open Product Page  Click on any product card,Open dynamic product detail page,Open dynamic product detail page,high,Successfully
+TC006,Cross-browser Compatibility,Open website on different browsers Chrome,Work correctly on every browser,Working correctly on every browse,medium,Successfully
